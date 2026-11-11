@@ -8,6 +8,7 @@ Previously, I obtained an MSc in Applied Computational Science and Engineering f
 - ✉️ Email: [ziji.chen@eng.ox.ac.uk](mailto:ziji.chen@eng.ox.ac.uk)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/zijichen/)
 - 🔬 ORCID: [0009-0002-7112-9656](https://orcid.org/0009-0002-7112-9656)
+- 📖 Google Scholar: [My Publications](https://scholar.google.com/citations?user=tW9UCf0AAAAJ)
 
 Feel free to reach out or connect with me on LinkedIn. I'm always happy to meet fellow researchers and professionals working in AI and computer systems.
 
