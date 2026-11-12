@@ -4,6 +4,8 @@ I am a DPhil researcher in Engineering Science at the **University of Oxford**, 
 
 Previously, I obtained an MSc in Applied Computational Science and Engineering from Imperial College London and a BSc in Atmospheric Science, with a Minor in Accounting, from Sun Yat-sen University. I also worked as an infrastructure engineer at Tencent Cloud.
 
+📄 [Download My CV](https://chenzijisubset.github.io/ChenZijiSubset/cv.pdf)
+
 - 🌐 University profile: [University of Oxford](https://eng.ox.ac.uk/people/ziji-chen)
 - ✉️ Email: [ziji.chen@eng.ox.ac.uk](mailto:ziji.chen@eng.ox.ac.uk)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/zijichen/)
